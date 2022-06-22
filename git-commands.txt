@@ -1,4 +1,3 @@
-
 git config for the first time
 ------------------------------
 git config --global user.name "John Doe"
